@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "products": [
+  "data": [
     {
       "id": 0,
       "viewType": "banner",
